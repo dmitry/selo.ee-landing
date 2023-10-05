@@ -55,6 +55,16 @@ main > .tagline {
 	font-weight: 100;
 }
 
+main > .additional {
+    width: 600px;
+	font-size: 1rem;
+	margin: 1.5rem auto;
+	font-weight: 100;
+}
+.icons-social {
+  margin-bottom: 1.5rem
+}
+
 .icons-social i {
 	padding: 10px;
 }
